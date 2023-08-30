@@ -9,7 +9,7 @@ Membuat Program Managerial Candi menggunakan bahasa Python dengan Primitif
 #### <a href="https://docs.google.com/spreadsheets/d/1GIMxrDNAvmwQeRGF_hv8kTSL_yHDYX4gQsluo3yhabs/edit?usp=sharing"> Q&A TUBES </a>    
 
 ### <a href="https://docs.google.com/document/d/1Z7OxeUuka8LB869OlVKePB_hvXp1Qt0c7EO3FEEQsd0/edit?usp=sharing"> HASIL DOKUMEN AKHIR </a>
-
+## <a href="https://youtu.be/vwz0JVAhjwQ"> VIDEO DEMO </a>
 ## Tim Pembuat
 Kelas 06
 Kelompok 10
